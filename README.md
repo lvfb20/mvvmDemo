@@ -11,14 +11,14 @@ I have approached the challenge using:
 
 ## Folder Structure
 
-AppDelegate: Manage everything related to AppDelegate and SceneDelegate
-SupportingFiles: Group files such as GoogleServices.plist files
-Data: Manage repositories implementation, network operations, and database access. 
-Domain: Manage all the business logic of our app such as models, useCases
-Presentation: Group all UI elements in a Commons folder for those components that are considered reusable across multiples screens, a Base folder to group BaseViewController and base protocols, and a Feature folder that groups all the features of our app. Each feature has its own folder to group ViewController, ViewModel, ViewControllerXib and a Cells folder if needed.
-Utils: Group extensions, helpers..
-Resources: Group Localizable files, assets, font files..
-Theme: Manage global styles, Colors, Images..
+- AppDelegate: Manage everything related to AppDelegate and SceneDelegate
+- SupportingFiles: Group files such as GoogleServices.plist files
+- Data: Manage repositories implementation, network operations, and database access. 
+- Domain: Manage all the business logic of our app such as models, useCases
+- Presentation: Group all UI elements in a Commons folder for those components that are considered reusable across multiples screens, a Base folder to group BaseViewController and base protocols, and a Feature folder that groups all the features of our app. Each feature has its own folder to group ViewController, ViewModel, ViewControllerXib and a Cells folder if needed.
+- Utils: Group extensions, helpers..
+- Resources: Group Localizable files, assets, font files..
+- Theme: Manage global styles, Colors, Images..
 
 ## Considerations
 
