@@ -1,0 +1,26 @@
+/* 
+  Localizable.strings
+  MVVMCoordinatorsDemo
+
+  Created by legna filloy on 18/2/23.
+  
+*/
+
+// MARK: - Product List
+"productList.nav.title" = "Productos";
+"productList.button.clear" = "Borrar";
+"productList.button.chechout" = "Checkout (%d artículos)";
+
+// MARK: - Checkout
+"checkout.nav.title" = "Checkout";
+"checkout.button.buy" = "Comprar";
+"checkout.label.quantity" = "cantidad:";
+"checkout.label.unitPrice" = "precio por unidad:";
+"checkout.alert.title" = "Compra realizada";
+"checkout.alert.description" = "Gracias por comprar en Cabify Store";
+"checkout.alert.button" = "Continuar";
+
+// MARK: - Discount
+"discount.bulk.description" = "Descuento bulk";
+"discount.2x1.description" = "Descuento 2x1";
+
